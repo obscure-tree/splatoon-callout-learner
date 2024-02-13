@@ -1,2 +1,3 @@
 # splatoon-callout-learner
-A website for learning the splatoon competitive callouts community list using spaced repetition.
+CURRENT STATUS: NOT FUNCTIONAL
+A website for learning the Splatoon 3 competitive callouts [community list](https://t.co/agacZPbniy) using spaced repetition.
